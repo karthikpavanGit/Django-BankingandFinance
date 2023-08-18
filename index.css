@@ -1,0 +1,29 @@
+.nav li{
+    display: inline;
+    padding: 50px;
+    margin-left: 4%;
+
+   
+}
+.nav{
+    border: 1px solid black;
+
+
+}
+h1{
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+    align-items: center;
+ 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    padding: 1.2%;
+    background-image: url(Banking.jpg);
+    background-size: auto;
+}
+image{
+    border: 2px solid black;
+}
+
+

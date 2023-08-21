@@ -1,29 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@1,700&family=Tilt+Warp&display=swap');
+
+
 .nav li{
     display: inline;
     padding: 50px;
     margin-left: 4%;
-
+   
    
 }
 .nav{
-    border: 1px solid black;
+    border: 1.25px solid black;
+    background-color: rgb(228, 228, 228);
+    width: auto;
 
 
 }
 h1{
-    text-align: center;
-    justify-content: center;
-    margin: auto;
-    align-items: center;
+   
+        text-align: center;
+        
  
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  
 
-    padding: 1.2%;
+    padding: 20%;
+    font-weight: 50;
     background-image: url(Banking.jpg);
     background-size: auto;
+
 }
 image{
     border: 2px solid black;
-}
+}  
 
 

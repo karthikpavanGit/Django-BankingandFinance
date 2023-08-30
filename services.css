@@ -7,7 +7,6 @@
     margin-left: 4%;
     
    
-   
 }
 .nav{
     border: 1.25px solid black;
@@ -18,22 +17,18 @@
 }
 h1{
    
-        text-align: center;
-        
- 
-  
+    text-align: center;
+    
 
-    padding: 20%;
-    font-weight: 50;
-    background-image: url(Banking.jpg);
-    background-size: auto;
+
+
+padding: 20%;
+font-weight: 50;
+background-image: url(Banking.jpg);
+background-size: auto;
 
 }
-image{
-    border: 2px solid black;
-}  
 .nav a{
     text-decoration: none;
     
 }
-

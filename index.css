@@ -15,22 +15,30 @@
     font-weight: 500;
 }
 body{
-    background-color: rgb(82, 148, 255);
+    background-color: rgb(7, 17, 32);
 }
 .nav{
     border: 1.57px solid ;
-    background-color: rgb(178, 250, 255);
+    background-color: rgb(190, 243, 247);
     width: auto;
 
 
 }
 h1{
         text-align: center;
-    padding: 150px 275  px;
+
+    color: rgb(223, 223, 114);
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-weight: 400;
+    font-weight: 10;
+    padding-right: 40%;
+    margin-left: 20px;
     background-image: url(Banking.jpg);
-    width: 20%;
+    width: 100%;
+    padding-top: 2%;
+    
+
+
+
 
 }
 image{
@@ -40,4 +48,4 @@ image{
     text-decoration: none;
     
 }
-
+    

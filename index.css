@@ -4,10 +4,8 @@
 .nav li{
     display: inline;
     padding: 50px;
-    margin-left: 4%;
+    margin-left: 3%;
     
-    
-   
    
 }
 .nav li a {
@@ -19,7 +17,7 @@ body{
 }
 .nav{
     border: 1.57px solid ;
-    background-color: rgb(190, 243, 247);
+    background-color: rgb(200, 243, 246);
     width: auto;
 
 
@@ -29,12 +27,14 @@ h1{
 
     color: rgb(223, 223, 114);
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-weight: 10;
+   font-size: 50px;
     padding-right: 40%;
-    margin-left: 20px;
+    margin-right: 69%;
+
     background-image: url(Banking.jpg);
-    width: 100%;
-    padding-top: 2%;
+    width: 30%;
+    padding-top: 15%;
+    padding-left: 10%;
     
 
 
